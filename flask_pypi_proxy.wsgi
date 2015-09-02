@@ -1,6 +1,6 @@
 import os
 
-os.environ['PYPI_PROXY_PYPI_URL'] = 'http://pypi.douban.com'
+os.environ['PYPI_PROXY_PYPI_URL'] = 'https://pypi.python.org'
 os.environ['PYPI_PROXY_BASE_FOLDER_PATH'] = '/mnt/eggs/'
 os.environ['PYPI_PROXY_LOGGING_PATH'] = '/mnt/eggs/proxy.logs'
 
